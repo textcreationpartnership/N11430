@@ -113,8 +113,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:014455_0000_0F92914AE95617A0"/>
-            <pb facs="tcp:014455_0001_0F92914B9FFF21B0" rendition="simple:additions"/>
+            <pb facs="unknown:014455_0000_0F92914AE95617A0"/>
+            <pb facs="unknown:014455_0001_0F92914B9FFF21B0"
+                rendition="simple:additions"/>
             <p>AMERICANS ROUSED, IN A CURE FOR THE SPLEEN.</p>
             <p>OR AMUSEMENT FOR A WINTER's EVENING; Being the Subſtance of a Converſation on the Times, over A FRIENDLY TANKARD AND PIPE BETWEEN
 <list>
@@ -138,7 +139,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:014455_0002_0F92914EDA7D1508"/>
+            <pb facs="unknown:014455_0002_0F92914EDA7D1508"/>
             <head>THE AMERICANS ROUSED, IN A CURE FOR THE SPLEEN, &amp;c.</head>
             <stage>
                <hi>Enter</hi> Sharp <hi>and</hi> Bumper.</stage>
@@ -171,7 +172,7 @@ very fine weather for the ſeaſon.</p>
             <sp>
                <speaker>Sharp.</speaker>
                <p>Oh, I love a joke; but we may enjoy many fa<g ref="char:EOLhyphen"/>vours of a kind providence, and we ought not to be ungrate<g ref="char:EOLhyphen"/>ful,
-<pb n="4" facs="tcp:014455_0003_0F92914FB60792D0"/>
+<pb n="4" facs="unknown:014455_0003_0F92914FB60792D0"/>
 'Squire; we have a very plentiful year for every thing except cyder; that indeed has fallen ſhort.</p>
             </sp>
             <sp>
@@ -219,7 +220,7 @@ very fine weather for the ſeaſon.</p>
                <p>Excuſe me there, Rev. Sir, ſaving your preſence; why, Sir, if I was denied the privilege of my ſhop to canvaſs politics, as a body may ſay, that is Lord North, Eaſt-India company, conſtitution, charter-rights and privileges, duties, taxes, and the like of that<g ref="char:punc">▪</g> body o'me, Sir, ſtrip me of this darling priviledge, and you may e'en take my razor<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>, ſoap, combs and all, and ſet fire to my ſhop. Why, Sir, I remem<g ref="char:EOLhyphen"/>ber the time when every man minded his own buſineſs, as <hi>you</hi> ſay, and then my cuſtomers were in ſuch a confounded hurry, that if they could not be ſhaved in a twinkling, without loſs of time, they'd go to meeting with their beards hanging down to the waiſtbands of their breeches, and I muſt loſe their cuſ<g ref="char:EOLhyphen"/>tom; but now, Sir, if forty come in together, and all in the moſt feezing hurry, I have nothing to do but to ſouſe plump into a deſcant upon the times, and in the ſnap of a finger eve<g ref="char:EOLhyphen"/>ry man is as patient and ſtill as any blockhead in my ſhop.
-<pb n="5" facs="tcp:014455_0004_0F92915020BB7C70"/>
+<pb n="5" facs="unknown:014455_0004_0F92915020BB7C70"/>
                   <hi>arrectis auribus,</hi> they ſit gaping, with ſolemn unmeaning phiz's, every one liſtens with ſilent attention to me, and forgets his beard, until I am pleaſed to diſſolve the charm by cloſing my diſcourſe; I tell them how I would trim Lord North, and have the Lords and Commons, (excepting the diſſentients) the Eaſt-India company, Gov. Bernard, Gov. Hutchinſon, &amp;c. over head and ears in the ſuds, if I could get at them; and then I rattle away upon grievances, oppoſition, rebellion and ſo on, only for the innocent purpoſe of ſupporting the cre<g ref="char:EOLhyphen"/>dit of my ſhop. Pray, Sir, if you have any compaſſion for poor <hi>Trim,</hi> for heaven's ſake don't preach up that old fa<g ref="char:EOLhyphen"/>ſhioned doctrine of every one's minding his own buſineſs; for if you do, I muſt decamp, and ſeek a living in ſome town where I can find a more orthodox miniſter. Would you pleaſe to be ſhaved, Sir?</p>
             </sp>
             <sp>
@@ -273,7 +274,7 @@ mighty fine cyder truly.</p>
                   </gap>k, except Mr. <hi>Trim,</hi> and it is what the ſeamen call a lew<g ref="char:EOLhyphen"/>ard evening; let us enjoy a ſocial pipe; and I ſuppoſe neigh<g ref="char:EOLhyphen"/>bour <hi>Trim,</hi> you will have patience to tarry an hour, if you can be indulged with a diſh of politics.</p>
             </sp>
             <sp>
-               <pb n="6" facs="tcp:014455_0005_0F929150E9316900"/>
+               <pb n="6" facs="unknown:014455_0005_0F929150E9316900"/>
                <speaker>Trim.</speaker>
                <p>O, by all means, Sir, I'm in no hurry; but as for po<g ref="char:EOLhyphen"/>litics I can do well enough without them here, provided al<g ref="char:EOLhyphen"/>ways that you don't baniſh them from my ſhop; for they are a part of my trade; at leaſt, they are the <hi>ca ſa ſine <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -294,7 +295,7 @@ mighty fine cyder truly.</p>
             <sp>
                <speaker>Trim.</speaker>
                <p>Why, between you and I and the poſt, Mr. <hi>Puff,</hi> I believe, you, when you would be a repreſentative, and <hi>Trim</hi> the barber, when he would get and keep good cuſtom, act upon much the ſame principles with ninety nine in a hundred of the moſt flaming patriotic ſons of liberty. Intereſt is the word! But I claim the excluſive right of preaching myſelf, only in my own ſhop; every where elſe, I had much rather be a hearer of my good miniſter, Mr. <hi>Sharp</hi>; therefore you muſt excuſe me from entering the liſts here, unleſs it be now and then a word or ſo, by way of marginal note; and upon the word of an honeſt ſhaver, or trimmer, or, call me what you pleaſe, I'd ſhave and trim you all round for nothing, if I could but hear you ſettle intelligibly, what is a whig, and what a tory; what is conſtitution, and what are charter rights and privileges—what is the obedience due from an American Engliſhman, to the King and parliament of Great-Britain, and what are our grievances; for by the mother that bore me, and by the father (if I ever had one) who begot me, I do ſo<g ref="char:EOLhyphen"/>lemnly affirm, friend <hi>Brim,</hi> that notwithſtanding all I have heard, and the ſtill greater, all I have preached upon this ſubject, I am ignorant of the eſſential difference (if there is any) between a true whig and an honeſt tory. I know nothing in our conſtitution by which we can claim any privileges which are deny'd us. I have never heard of any obedience, demand<g ref="char:EOLhyphen"/>ed
-<pb n="7" facs="tcp:014455_0006_0F929151B468B7B0"/>
+<pb n="7" facs="unknown:014455_0006_0F929151B468B7B0"/>
 by the king and parliament, which I can in conſcience withhold; and I have no more idea of the grievances which for the ſake of my cuſtom, I am obliged to join in complain<g ref="char:EOLhyphen"/>ing of, than I have of the political diſputes in the moon; though I believe they are pretty much alike, becauſe our's, I can ſafely ſwear, ſavor ſtrong of lunacy.</p>
             </sp>
             <sp>
@@ -322,7 +323,7 @@ by the king and parliament, which I can in conſcience withhold; and I have no m
                   </gap> it is immater al about their names—I ſay pleaſe your <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> —gentlemen, I mean t'aſk pardon; have not theſe great and good men ſtood up for our rights and privileges, againſt the tyrannical deſigns of the corrupt miniſtry and houſe of com<g ref="char:EOLhyphen"/>mons—and now, for to tell me that there is no difference be<g ref="char:EOLhyphen"/>tween a whig and a tory—and for a man to ſay as how our
-<pb n="8" facs="tcp:014455_0007_0F9291552447B840"/>
+<pb n="8" facs="unknown:014455_0007_0F9291552447B840"/>
 conſtitution isn't taken a way—and that we've no grievances, and the like of that—I ſay, in my humble opinion, he is an enemy to his country—juſt as if every man did not know what conſtitution is— and whether we had any grievances, and ſo forth; why, Mr. <hi>Trim</hi> may talk his latin ſtuff if he pleaſes, with his <hi>Cauſis ſino quono,</hi> and ſuch like—I know ſome latin as well as he; and I ſay he's an <hi>ignoramus,</hi> if ſo be he talks at this rate—I hope in mercy we ſhall have no bloodſhed; but I ſwagger, (I aſk pardon for ſwearing) but I ſnore, before I'd give up our juſt rights and privileges, I'd take my gun, and load and fire and pull trigger like the nation, and fight up to the knees in blood—but I won't put myſelf in a paſſion—I aſk pardon gentlemen—By your leave Sir, I'll make bold to take a drink of your cyder. Gentlemen all your healths.</p>
             </sp>
             <sp>
@@ -363,7 +364,7 @@ conſtitution isn't taken a way—and that we've no grievances, and the like of 
                <p>Upon my word gentlem<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>n, theſe are no laughing
-<pb n="9" facs="tcp:014455_0008_0F9291561CEA5FD0"/>
+<pb n="9" facs="unknown:014455_0008_0F9291561CEA5FD0"/>
 matters—h—hugh—as Mr.—h—hugh—<hi>Puff</hi> has very well obſerved, all our charter rights and privileges are torn from us and we are made ſlaves, and the Lord ſend us deliverance —h—hugh—h—hugh—h—hugh.</p>
             </sp>
             <sp>
@@ -389,7 +390,7 @@ That is to ſay, Mr. <hi>Puff,</hi> How happy are Americans, if they did but kno
                <l>(Gods they had try'd of every ſhape and ſize,</l>
                <l>That god-ſmiths could produce, or prieſts deviſe:</l>
                <l>
-                  <pb n="10" facs="tcp:014455_0009_0F9291565563B158"/>Theſe Adam-wits, too fortunately free,</l>
+                  <pb n="10" facs="unknown:014455_0009_0F9291565563B158"/>Theſe Adam-wits, too fortunately free,</l>
                <l>Began to dream they wanted liberty;</l>
                <l>And when no rule, no precedent was found,</l>
                <l>Of men, by laws, leſs circumſcrib'd and bound;</l>
@@ -428,7 +429,7 @@ That is to ſay, Mr. <hi>Puff,</hi> How happy are Americans, if they did but kno
             <sp>
                <speaker>Sharp.</speaker>
                <p>I have ne objection againſt delivering my opinion freely upon this queſtion, I can appeal to you all as my vouch<g ref="char:EOLhyphen"/>ers, that I have never cloak'd my ſentiments, or conform'd out<g ref="char:EOLhyphen"/>wardly to popular prejudices, as too many of my reverend brethren have done; and I wiſh I could not add with truth, that too many of them, inſtead of inculcating the peaceable principles of the goſpel, have by their prayers, ſermons and example encouraged ſedition, privy conſpiracy and rebellion; and ſtimulated their hearers to every evil work—witneſs the
-<pb n="11" facs="tcp:014455_0010_0F929156E16FC0E0"/>
+<pb n="11" facs="unknown:014455_0010_0F929156E16FC0E0"/>
 late impious faſt—an unparallel'd piece of ſolemn mockery, ſhocking to every ſerious mind—for what can be conceiv'd more horrible, than to beſeech the fountain of truth and juſ<g ref="char:EOLhyphen"/>tice to eſpouſe and abet the cauſe of robbery and injuſtice, by imploring of him a miraculous interpoſition for the removal of grievances, brought upon the metropolis by a moſt high-handed robbery, plunder and deſtruction of their neighbour's property, and continued only by an obſtinate refuſal to make that reſtitution which the laws of juſtice, equity and good conſcience loudly demand? Sorry I am that ſuch a heaven daring farce ſhould originate with miniſters—I am grieved that ſo many of our ſacred order ſhould, by this and other parts of their conduct, have diſcovered ſuch a diſpoſition to increaſe inſtead of curing our popular diſtractions.</p>
             </sp>
             <sp>
@@ -445,7 +446,7 @@ late impious faſt—an unparallel'd piece of ſolemn mockery, ſhocking to ever
             <sp>
                <speaker>Sharp.</speaker>
                <p>Hold, hold, neighbour <hi>Trim,</hi> you are not to take liberties with my cloth, becauſe I do myſelf. But to proceed— In conſidering this queſtion of the right of parliament to make laws to bind us, I ſhall obſerve the diſtinction made by Mr. Pitt, Mr. Dickinſon, Mr. Wilkes, Mr. Otis, and all other advocates for the rights of the Colonies, between legiſlation and taxation—they ſay there muſt neceſſarily be a ſupreme power, lodg'd ſomewhere, of governing and regulating the trade of the Colonies; and this is in the King, Lords and Commons of Great-Britain, but that this does not extend to internal taxes, tho' it includes the right of laying duties on ſuch articles of trade, as they allow us to import, if we chooſe to import them—-and upon this diſtinction was founded our oppoſition to the unhappy ſtamp-act—we then acknowledged the authority of parliament, in it's full extent, excepting on<g ref="char:EOLhyphen"/>ly in the matter of internal taxation; tho' it is very true, we have ſince been daily growing wiſer and wiſer, 'till at length, we openly avow principles of abſolute independency<g ref="char:punc">▪</g> and deny that the parliament of Great-Britain have any more
-<pb n="12" facs="tcp:014455_0011_0F929157B191C608"/>
+<pb n="12" facs="unknown:014455_0011_0F929157B191C608"/>
 rightful authority over us, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>han the parliament of Paris, or the divan of Conſtantinople. And the grand argument in ſuppor<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -469,7 +470,7 @@ rightful authority over us, <gap reason="illegible" resp="#PDCC" extent="1 lette
                <p>That ſame Oliver Cromwell was a huge ſon of liberty, as I take it.</p>
             </sp>
             <sp>
-               <pb n="13" facs="tcp:014455_0012_0F92915864BB9468"/>
+               <pb n="13" facs="unknown:014455_0012_0F92915864BB9468"/>
                <speaker>
                   <hi>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -516,7 +517,7 @@ rightful authority over us, <gap reason="illegible" resp="#PDCC" extent="1 lette
                   </gap> before the <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> of our charter, the juriſ<g ref="char:EOLhyphen"/>diction
-<pb n="14" facs="tcp:014455_0013_0F92915A669A2808"/>
+<pb n="14" facs="unknown:014455_0013_0F92915A669A2808"/>
 of parliament over us, was openly and explicitly claimed; and again, twenty-nine years before; and then in the charter itſelf, this ſupreme juriſdiction is expreſsly reſer<g ref="char:EOLhyphen"/>ved; and four years after it is again confirmed in the moſt poſitive terms, and all governors bound by an oath to ſee it ſubmitted to. Now, when we conſider this claim, openly and repeatedly made, before, at, and immediately after, the grant<g ref="char:EOLhyphen"/>ing and accepting of the charter, if the charter can be view'd in the light of a compact, is not this evidently one eſſential article of the agreement, on our part, namely, that we will ac<g ref="char:EOLhyphen"/>knowledge and ſubmit to the juriſdiction of parliament? It is plain we accepted the charter under this condition. How then can this, with the leaſt colour of truth, be called a new claim? Eſpecially, when this right of parliament, has not only been thus amply claimed, but has been all along exerciſed, in va<g ref="char:EOLhyphen"/>rious inſtances, and without any oppoſition, denial or queſtion on our part—and this I find to be the caſe in fact—for, from the time of our charter, in every reign, acts of parliament have been continually making, impoſing duties, and for re<g ref="char:EOLhyphen"/>gulating the trade, manufactures and internal government and police of this and the other colonies;—thus, duties have been impoſed and paid upon ſugar, rum, molaſſes, coffee, wines, &amp;c. and on the other hand, bounties and premiums have been granted on various articles; the trade of hatters, and the manufacture of iron, by ſlitting mills, has been regu<g ref="char:EOLhyphen"/>lated and reſtrained—wool prohibited from being water-born —the poſt-office erected—the rates of coin eſtabliſhed—the cutting of pine trees prohibited—lands made liable to the pay<g ref="char:EOLhyphen"/>ment of debts—the ſtatute of wills extended to the colonies— the paper current reſtrained—indented ſervants impowered to inliſt—troops raiſed here made ſubject to the articles of war —acts of aſſembly made void—and in divers other inſtances has this ſupreme right of parliament been exerciſed and ac<g ref="char:EOLhyphen"/>quieſced in, continually, without interruption, from the uſur<g ref="char:EOLhyphen"/>pation of Oliver Cromwell to the reign of George the third.</p>
             </sp>
             <sp>
@@ -528,7 +529,7 @@ of parliament over us, was openly and explicitly claimed; and again, twenty-nine
                <p>Amen.—And yet ſuch is the infatuation, that people ſeem to be ruſhing into open rebellion, upon a ſup<g ref="char:EOLhyphen"/>poſition, that the parliament of England are ſetting up a new and unheard of claim, in order to enſlave a whole people, for whom they have ever diſcovered a parental fondneſs, and whoſe liberties and happineſs are moſt intimately connected and interwoven with their own.</p>
             </sp>
             <sp>
-               <pb n="15" facs="tcp:014455_0014_0F92915AA82CD210"/>
+               <pb n="15" facs="unknown:014455_0014_0F92915AA82CD210"/>
                <speaker>Trim.</speaker>
                <p>O tempora! O mores!</p>
             </sp>
@@ -569,7 +570,7 @@ of parliament over us, was openly and explicitly claimed; and again, twenty-nine
             <sp>
                <speaker>Puff.</speaker>
                <p>As for that matter, Rev. Sir, if ſo be, the acts of parliament be as you tell of, and our charter is ſuch a kind
-<pb n="16" facs="tcp:014455_0015_0F92915B60322C18"/>
+<pb n="16" facs="unknown:014455_0015_0F92915B60322C18"/>
 of a compact as you ſeem to ſuppoſe, why I'm free to own, that I don't ſee ſo much reaſon to complain; but then how can that be? For I'm ſure Mr. Samuel Adams told the houſe, laſt ſeſſions, as how the tea act was an entering wedge, contri<g ref="char:EOLhyphen"/>ved by Lord North, to enſlave all the colonies, and Col. Han<g ref="char:EOLhyphen"/>cock ſaid as much. What is your opinion of the tea act, ſir?</p>
             </sp>
             <sp>
@@ -597,9 +598,9 @@ of a compact as you ſeem to ſuppoſe, why I'm free to own, that I don't ſee �
                <p>But the grievance complained of lies here. This act laying the three penny duty on tea, expreſsly mentions, among other purpoſes, the raiſing a revenue: This, ſay we, is taking money out of our pockets without our conſent; and it is argued, that if they may do it in this trifling inſtance, they may do it in all others; and will go on till they leave us nothing. Upon which I would obſerve, in the firſt place, that it is not true, that this is taking money out of our pockets without our conſent; becauſe we are not compell<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>d to buy; and if we will buy, the ſmall pittance which we pay for the duty, we pay with our own conſent, as much as we do any money which we pay for any commodity we buy. The ſame might as well be ſaid, when we buy a quart of rum, or a dram, for when we pay for it, we pay our proportion of the duty laid by act of parliament on molaſſes: This we have done a long time, and never found out that it was a grievance, or
-<pb n="17" facs="tcp:014455_0016_0F92915E9F9E67F8"/>
+<pb n="17" facs="unknown:014455_0016_0F92915E9F9E67F8"/>
 that we were thereby made <hi>ſlaves</hi>—but the conſequence is falſe and abſurd; for it can never follow, that becauſe we ſubmit to a <hi>reaſonable</hi> law, therefore we muſt be called to ſubmit to the moſt tyrannical, unjuſt and unreaſonable laws. And what is the danger from this law, any more than from other reve<g ref="char:EOLhyphen"/>nue laws to which we have ſo long ſubmitted? Thoſe laws have all along, in fact, raiſed a revenue; and becauſe this is mentioned in the act, can this poſſibly alter the caſe? Yes, ſay our patriots, this is claiming a right to tax us; but I deny it; for as I have clearly ſhewn, this is no other claim than has been made, exerciſed and ſubmitted to, for more than a century: It is eſſentially different from taxing us; for a tax is raiſed by compulſion, whether we will or no; but this is a regulation of trade, by which, though it may raiſe a revenue, and is deſigned for this purpoſe, yet no man can be compelled to pay any part of it; and if he does, it is his own voluntary act, as much as when he chooſes to drink wine or rum, rather than cyder, or to wear Engliſh cloth, rather than homeſpun; and they are doing no ſervice to their country, who thus ab<g ref="char:EOLhyphen"/>ſurdly place tax acts and revenue laws upon the ſame footing and infer a right of taxation, from a right of legiſlation in other reſpects. But further, the tea act, as it is called, was made in the ſeventh year of the preſent reign; and the pre<g ref="char:EOLhyphen"/>amble, which I took a copy of, runs thus: "Whereas it is expedient, that a revenue ſhould be raiſed in your Majeſty's dominions in America, for making a more certain and ade<g ref="char:EOLhyphen"/>quate proviſion for defraying the charge of the adminiſtration of juſtice, and the ſupport of civil government in ſuch provinces where it ſhall be found neceſſary, and towards further defray<g ref="char:EOLhyphen"/>ing the expences of defending, protecting and ſecuring the ſaid dominions."—Now it is generally ſuppoſed, that this expreſs purpoſe of raiſing a revenue, in the colonies, is en<g ref="char:EOLhyphen"/>tirely new and unprecedented; but to ſhew that this is a miſtake, I will read you a copy of the preamble to an act, paſſed in the fourth year of this reign, which is thus, "Where<g ref="char:EOLhyphen"/>as it is expedient, that new proviſions and regulations ſhould be eſtabliſhed for improving the revenue of this kingdom, and for extending and ſecuring the navigation and commerce between Great-Britain and your Majeſty's dominions in America, which by the peace have been ſo happily enlarged: And whereas it is juſt and neceſſary that a revenue be raiſed in your Majeſty's ſaid dominions in America, for defraying the expences of de<g ref="char:EOLhyphen"/>fending, proteſting and ſecuring the ſame," &amp;c. and then the
-<pb n="18" facs="tcp:014455_0017_0F929175AB771EF8"/>
+<pb n="18" facs="unknown:014455_0017_0F929175AB771EF8"/>
 act goes on to lay duties on ſugars, wines, Eaſt-India goods, &amp;c. imported from Great-Britain, &amp;c. This act has been, and ſtill is, ſubmitted to, without the leaſt complaint. Now I ſhould be glad to know, what difference there is between theſe two preambles, ſo far as reſpects the matter of raiſing a revenue.</p>
             </sp>
             <sp>
@@ -621,7 +622,7 @@ act goes on to lay duties on ſugars, wines, Eaſt-India goods, &amp;c. imported
             <sp>
                <speaker>Trim.</speaker>
                <p>Slice me like a lemon, landlord Fillpot, if I would
-<pb n="19" facs="tcp:014455_0018_0F9291766222C118"/>
+<pb n="19" facs="unknown:014455_0018_0F9291766222C118"/>
 not undertake, for one nippikin, to make you believe, <hi>nolen<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> volens,</hi> that larks may be catched by the ſky's falling, or, by putting ſalt on their tails; or, that the Pope of Rome, or man of ſin, is a real painted whore, of the feminine gender; or, that the moon is made of green cheeſe, — why,</p>
@@ -654,7 +655,7 @@ not undertake, for one nippikin, to make you believe, <hi>nolen<gap reason="ille
             <sp>
                <speaker>Fill.</speaker>
                <p>Why your tongue's no ſlander, Trim, and ſo I ſhan't reſent it; but every body knows my wine muſt be good, for I have my Madeira of'Squire ****, and my Fyal of Deacon *** *****'s ſon-in-law there, I forget his name, and ſo it can't be
-<pb n="20" facs="tcp:014455_0019_0F92917720DA6680"/>
+<pb n="20" facs="unknown:014455_0019_0F92917720DA6680"/>
 thick; and ſo there you're out for once.</p>
             </sp>
             <sp>
@@ -691,7 +692,7 @@ thick; and ſo there you're out for once.</p>
             <sp>
                <speaker>Sharp.</speaker>
                <p>The man who forged the act we are ſpeaking of, has been guilty of ſuch an unprecedented inſult upon the wiſ<g ref="char:EOLhyphen"/>dom and integrity of the King and Parliament, and upon the underſtandings of Americans; and it now appears to be done
-<pb n="21" facs="tcp:014455_0020_0F92917A2C272190"/>
+<pb n="21" facs="unknown:014455_0020_0F92917A2C272190"/>
 with ſo wicked a deſign of ſtirring up the people to open rebel<g ref="char:EOLhyphen"/>lion, that, if he could be detected, I can hardly think of a pu<g ref="char:EOLhyphen"/>niſhment that could be called unjuſt or ſevere; for what effuſi<g ref="char:EOLhyphen"/>on of human blood—what extenſive and ſhocking miſeries is that man chargeable with, who, by wicked arts, involves a country in rebellion! The report, ſo induſtriouſly ſpread, of a land tax, is another malicious falſhood of the ſame kind<g ref="char:punc">▪</g> calculated and tending to produce the ſame horrid, miſchievous effects: There is not the ſlighteſt reaſon to ſuppoſe the King, or any member of the houſe of lords or houſe of commons, have had the leaſt thought of laying any ſort of tax on our lands; or of laying upon us or our eſtates any internal tax of any kind whatever; but it is trumped up here, to deceive and miſlead the ignorant country people, and betray them into ſuch acts, as muſt end in the loſs of life and eſtate.</p>
             </sp>
             <sp>
@@ -717,7 +718,7 @@ with ſo wicked a deſign of ſtirring up the people to open rebel<g ref="char:E
             <sp>
                <speaker>Sharp.</speaker>
                <p>That the new method of appointing the council, is an alteration of that part of our charter is true, and that the new regulation reſpecting jurors is different from that pre<g ref="char:EOLhyphen"/>ſcribed by our province law is alſo true, but that theſe are grievances, may well be queſtioned.—The Engliſh conſtitu<g ref="char:EOLhyphen"/>tion has ever been thought by the wiſeſt men of all nations the beſt form of government in the whole world—and if ſo, theſe two alterations in our conſtitution are ſo far from being grievous, that they are benefits, becauſe they bring us nearer to perfection—for our jurors are now to be choſen in the ſame manner they are in England; and our council being now made independent of the governor and people, and removeable only
-<pb n="22" facs="tcp:014455_0021_0F92917AF991E658"/>
+<pb n="22" facs="unknown:014455_0021_0F92917AF991E658"/>
 by the King, as the governor is, brings them to a much nearer reſemblance to the houſe of Lords; and beſides, both council and juries are now upon exactly the ſame footing as they are in New-Hampſhire, New York and all the ſouthern govern<g ref="char:EOLhyphen"/>ments, and in all the Weſt India Iſlands, ſo that if this makes us ſlaves, all thoſe other governments, as well as England, are, and ever have been, ſlaves—and the ſame may be ob<g ref="char:EOLhyphen"/>ſerved of the King's paying his governor and judges, for the caſe is juſt the ſame in all King's governments; and in England likewiſe, ſo far as reſpects the judges—and if we look back to former times, and conſider how our council was ſituated.</p>
             </sp>
             <sp>
@@ -747,11 +748,11 @@ by the King, as the governor is, brings them to a much nearer reſemblance to th
                <p>That Boſton miniſter, as well as ſome others, I'm ſorry to ſay it, has much to anſwer for—he knows better— the Quebec-bill can no more effect our civil or religious liber<g ref="char:EOLhyphen"/>ties, than the laws of Holland can—what parliament has done is no more than they were bound to do, by every rule of equity and common juſtice; The Canadians ſurrendered their country to his Britannic Majeſty upon expreſs condition, among others that they ſhould enjoy the free exerciſe of their religion; and to this end, that they ſhould have a Roman-catholic biſhop, to be approved of by the King of England — this was one article of the capitulation, expreſly <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> to by the general to whom they ſurrendered—this engagement
-<pb n="23" facs="tcp:014455_0022_0F92917BA0B07C08"/>
+<pb n="23" facs="unknown:014455_0022_0F92917BA0B07C08"/>
 is now confirmed by Parliament, and this is all—now it is plain, they are entitled to the enjoyment of their religion, according to the full extent and meaning of this agreement, or their country ought to be reſtored to them—and if the Engliſh go<g ref="char:EOLhyphen"/>vernment intended to comply with their terms of capitulation, ought they not to give them the fulleſt aſſurance of it, by confirming them by an act? Surely, if Parliament is to be blamed for any thing, it ſhould ſeem to be rather, that they have not quieted the minds of the Canadians, by giving them this aſſurance before—for we muſt remember, that their reli<g ref="char:EOLhyphen"/>gion is as dear to them, as ours is to us, and they have the ſame right to worſhip God, in the way they think right, that we claim for ourſelves—they have prejudices of education to biaſs them, as we have; and they have their own natural under<g ref="char:EOLhyphen"/>ſtandings, and their prieſts to guide them as we have; and they have an equal right with us to the benefit of the goſpel rule, "Do to others as ye would they ſhould do unto you." And we ſhould do well to remember that, "with what mea<g ref="char:EOLhyphen"/>ſure we mete, it ſhall be meaſured unto us again."—In ſhort, the only principles upon which Parliament can be arraigned in this inſtance, are entirely deſtructive of all liberty of conſcience; and in point of common juſtice, and the faith of nations, they can be found fault with, only upon the malevolent, unjuſt, diabolical poſition, which, God forbid Proteſtants ſhould ever adopt, that no faith is ever to be kept with hereticks.—As to the danger ariſing to our religion, from this act, it is a mere bugbear, raiſed to diſturb weak minds: for nothing can be more egregiouſly abſurd than to infer, that becauſe the King and Parliament from the plain dictates of juſtice and humanity have complied with their moſt ſolemn treaty made by their General, and upon the faith of which, an extenſive country has been ſurrendered to them, that therefore the King intends to violate his coronation oath, and break thro' the condition upon which he holds his crown; and that the Lords and Com<g ref="char:EOLhyphen"/>mons, collected from all parts of England, are joining in this impolitic, iniquitous, fooliſh deſign.—Let us turn the tables, and make the preſent caſe of the Canadians, our own. Suppoſe the King of France had conquered New-England, at the time the King of England conquer'd Canada, and we had capitulated upon condition, that we ſhould enjoy our own religion, and chooſe our own miniſters, as we had done from the firſt ſet<g ref="char:EOLhyphen"/>tlement of the country to this time; and the French General had agreed to this, as General Amh<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>ſt did to their terms;
-<pb n="24" facs="tcp:014455_0023_0F92917C66011870"/>
+<pb n="24" facs="unknown:014455_0023_0F92917C66011870"/>
 and we had remained ever ſince under the French government; and when the King of France and his Parliament had confirmed this treaty by a law, and the province of Canada ſhould make a clamour, and ſay the King of France, being governed by his miſtreſſes, intended to in<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>roduce the Proteſtant religion among them: I aſk every unprejudiced man, whether he would not think, and ſay, the Canadians were the moſt jealous, unrea<g ref="char:EOLhyphen"/>ſonable and unjuſt people under Heaven?—I will venture to anſwer, yes, for every Engliſhman upon the continent,—and are our clamou<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -777,7 +778,7 @@ and we had remained ever ſince under the French government; and when the King o
                <p>Ha! ha! ha!—Whiz.</p>
             </sp>
             <sp>
-               <pb n="25" facs="tcp:014455_0024_0F92917FC811AC80"/>
+               <pb n="25" facs="unknown:014455_0024_0F92917FC811AC80"/>
                <speaker>Bump.</speaker>
                <p>What do they feel? What do they ſee? What do they hear, but idle tales? Don't they ſay, and do as they pleaſe? And isn't this a proof of the mildneſs of the govern<g ref="char:EOLhyphen"/>ment? Talk of liberty—why, in the name of wonder, what is liberty if this isn't? They ſay and do as they will, and get what they can, and keep what they get, and go to church, or ſtay at home, as they liſt; they ſwear and drink, and lie, and whore, and cheat, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -790,7 +791,7 @@ and we had remained ever ſince under the French government; and when the King o
             <sp>
                <speaker>Sharp.</speaker>
                <p>Indeed, they don't well conſider what they talk of, when they talk of fighting the King's troops; they don't ſit down firſt and count the coſts; they don't conſider that they are entering the liſts with a power, which is more than a match for all the other powers of Europe; they don't conſider the horrors of a civil war; the terrible attendants even on a ſuc<g ref="char:EOLhyphen"/>ceſsful rebellion; much leſs, the fatal conſequences of an un<g ref="char:EOLhyphen"/>ſucceſsful, forceable oppoſition to their lawful Sovereign and his lawful authority. England is a powerful ſtate by ſea, ſu<g ref="char:EOLhyphen"/>perior to all the reſt of the world combined; ſhe can block up all our harbours, and prevent all foreign imports, and cut off all communications between the colonies by ſea; by this means we may at once be cut off from all ſupplies of cloath<g ref="char:EOLhyphen"/>ing, grain, rum, ſugar, molaſſes, ſalt, ammunition, fiſh, and every article of foreign trade, either for our own neceſſary conſumption, or for re-exportation; the ſhipping of the pro<g ref="char:EOLhyphen"/>vince may all be made lawful prize, and every ſea port town be laid in ruins.—By land, with a very few regiments, ſhe may cut off all intercourſe between town and town, and go on to lay waſte and utterly deſtroy our houſes, barns, fields, cattle, grain and ſtock of all kinds, until a body can aſſemble who ſhall dare to face them in the field. And here ariſes to our view innumerable difficulties not yet attended to: Our wives and children muſt be ſecured; our eſtates deſerted; proviſions, arms, ammunition, camp-equipage, and other neceſſaries of war muſt be provided; leaders ſkill'd in the art of war muſt be found; and if we think we have any ſuch among us, what a vaſt proportion of them will, before the criſis comes on, de<g ref="char:EOLhyphen"/>clare for the loyal ſide; and what numbers, muſt we be ſure,
-<pb n="26" facs="tcp:014455_0025_0F92918088CA7918"/>
+<pb n="26" facs="unknown:014455_0025_0F92918088CA7918"/>
 will follow them when we reflect, that this is a country of property, and conſider what will be the certain conſequences of a defeat: For the puniſhment of open traitors and rebels is not, and cannot be, governed by any certain rules of law, but is inflicted ſummarily, according to the exigence of the times; and what theſe conſequences muſt be, it is ſhocking to humanity to conſider: Suppoſe a battle, and numbers ſlain, and the reſt put to flight; what multitudes muſt be ſacrificed in the ſubſequent purſuit; what numbers taken priſoners, impaled and gibbete<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> from unavoidable neceſſity; and what then becomes of their wives and helpleſs innocent children; and of the aged and infirm; for then it will be impoſſible to make thoſe diſtinctions which humanity would wiſh for, but one general calamity muſt involve the innocent, if ſuch there are, with the guilty—but ſuppoſe by a lucky accident, a body of the King's forces, ſhould be worſted, how long would it be before they would appear again with an irreſiſtable force, and with a reſentment that would mark the whole country with deſolation and miſery; imagine to yourſelves an indivi<g ref="char:EOLhyphen"/>dual head of a family, mortally wounded in battle, but lin<g ref="char:EOLhyphen"/>gering in the pangs of death—what would be his bitter re<g ref="char:EOLhyphen"/>flections, and how would he condemn his own raſhneſs and folly in that awful interval; in ſome ſuch plaintive moans as theſe, may we well ſuppoſe, he would breathe out his life.— "What have I done, fooliſh man that I was—why did I blindly ruſh upon certain ruin—now that my paſſions are cooled, and reaſon, alas! too late, has reſumed her ſeat, all thoſe imaginary grievances diſappear.—I now die a traitor, and rebel by the laws of my country—my eſtate is forfeited— my affectionate wife, and our innocent babes, the ſweet pledge<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -806,7 +807,7 @@ will follow them when we reflect, that this is a country of property, and conſi
                <p>Verily, friend <hi>Trim,</hi> thy humanity is more pleaſing than even thy ſprightly humour—thou needſt not be aſhamed of thy weakneſs in this, caſe—that ſilent tear, drop'd over the picture of thy diſtreſs'd country, does thee an honour which kings might envy, but could not confer.</p>
             </sp>
             <sp>
-               <pb n="27" facs="tcp:014455_0026_0F929180E4DCAD10"/>
+               <pb n="27" facs="unknown:014455_0026_0F929180E4DCAD10"/>
                <speaker>Sharp.</speaker>
                <p>Such are the miſeries to which this poor, unhappily deluded people are haſtening apace; and all to ſave thoſe liberties which their own fooliſh credulity, and the wicked arts of their deſigning leaders, have miſrepreſented to their heated imaginations as being in danger; and which, heaven knows, how ſoon they may loſe in good earneſt, if they go on in their mad career; well is it ſaid, that rebellion is like the ſin of witchcraft, for in both caſes, the minds of men are en<g ref="char:EOLhyphen"/>tirely actuated by ſuch a ſpirit, as renders them proper Demo<g ref="char:EOLhyphen"/>niacs; otherwiſe it would be morally impoſſible, that they ſhould throw up lives and fortunes, merely becauſe they fear they are in danger of loſing a few of thoſe rights, which no people under Heaven either do or wiſh to enjoy—and without which, I may add, we ſhould have been much happier, had we never fancied ourſelves entitled to them.</p>
             </sp>
@@ -825,7 +826,7 @@ will follow them when we reflect, that this is a country of property, and conſi
             <sp>
                <speaker>Sharp.</speaker>
                <p>I never was ſo painfully deceived in my expectati<g ref="char:EOLhyphen"/>ons, in any inſtance, as I have been in this of the conduct of the Congreſs; I comforted myſelf with the moſt ſanguine hopes, that they would adopt ſuch prudent meaſures, as might tend to bring about an accommodation of all our unhappy diſputes: but inſtead of this, they have blown up a ſpark, which was but kindling, into a raging conflagration. Their reſolves are nothing ſhort of high treaſon; their aſſociation is an open de<g ref="char:EOLhyphen"/>claration of hoſtilities, partaking ſo equally of wickedneſs and folly, that it is hard to ſay which is its prevailing character<g ref="char:EOLhyphen"/>iſtic; it recommends robbery to the whole continent; it is calculated to reduce thouſands of families to poverty and ruin; it tends directly to quarrelling, fightings and murders; it is a ſcheme, in the fixed nature of things, impoſſible to be execu<g ref="char:EOLhyphen"/>ted; it muſt render us contemptible in the eyes of Britons, a reproach, a laughing-ſtock and a bye-word, among all civilized nations. Their addreſſes are a jargon of contradictions and abſurdities; Britons and Canadians muſt ſmile with ineffable
-<pb n="28" facs="tcp:014455_0027_0F929181AAAE8F38"/>
+<pb n="28" facs="unknown:014455_0027_0F929181AAAE8F38"/>
 contempt, at ſo groſs an impoſition upon their underſtandings. In ſhort, every ſtep they have taken has been juſt the reverſe of what it ought to have been, and in my opinion, they have remov'd us infinitely farther from pea<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>e and happineſs, than we ſhould have been, had a Congreſs never been thought on.</p>
@@ -909,7 +910,7 @@ contempt, at ſo groſs an impoſition upon their underſtandings. In ſhort, ev
                   </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>s, and let
-<pb n="29" facs="tcp:014455_0028_0F929182616489C8"/>
+<pb n="29" facs="unknown:014455_0028_0F929182616489C8"/>
 him take all their teeth out of their heads. Tell them thro' the channel of a ſeditious news-paper, the moſt improbable tale about grievances, and they believe it more firmly than they will thoſe many parts of holy writ which enjoin ſubmiſſion to rulers, as a chriſtian duty. Let one of their demagogues but hint, that ſome hundreds of perſons of the greateſt property in the province—who were born here—whoſe families are here —whoſe eſtates are here, whoſe characters in public and pri<g ref="char:EOLhyphen"/>vate life, they have long known, proved and adored, are all at once become enemies to their country, to their friends, to their neighbours, to their families, to themſelves, and to God, and they inſtantly fall upon them with a ſavage barbarity, which the uncivilized, unchriſtianized Indians never exerciſed towards the invaders of their peaceful retreats. Tell them the Parlia<g ref="char:EOLhyphen"/>ment of Great-Britain may be made to tremble at the threats of an American Congreſs, and they believe it; tell them the veter<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>n troops of that potent kingdom, will fly before an und<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -917,7 +918,7 @@ him take all their teeth out of their heads. Tell them thro' the channel of a ſ
                   </gap>ſciplined multitude of New-England ſquirrel-hunters, and they will ſwal<g ref="char:EOLhyphen"/>low it without a hiccough; and each hero in his chimney cor<g ref="char:EOLhyphen"/>ner, kills his dozen, and crows victorious; tell them all commu<g ref="char:EOLhyphen"/>nication is cut off between Boſton and the country, and down it goes, though they go there every day to market, and return without moleſtation; tell them, though our trade and our ſea<g ref="char:EOLhyphen"/>port towns ſhould be all deſtroyed, it would do us no hurt; that if they beat their plough ſhares into ſwords, and their crow<g ref="char:EOLhyphen"/>bars into gun-barrels, and go all to training, nevertheleſs, their lands, without tilling, will produce ſufficient for themſelves and all the inhabitants of the ſea-port towns, and they believe it moſt ſeriouſly; tell them a duty of a three-pence upon tea, is more a grievance than a duty of a ſhilling, and they believe it; tell them what would be high treaſon in England, is no crime at all in America, and on they go, blindfold, to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>pen commiſſion of it, with the ſame devotion that they go to meet<g ref="char:EOLhyphen"/>ing, to hear the ſame comfortable doctrine preached:—In ſhort, there is no abſurdity too great for their ſwallows, or too hard for their ſtomachs, if it does but come from the right books, and through the proper channel. And as they believe, ſo they practice: How ſilly has been their behaviour all over the province; two thouſand aſſembled at Great-Barrington, as many more at Springfield; three thouſand at Worceſter<g ref="char:punc">▪</g> and four thouſand at Cambridge; beſides other formidable bodies Eaſtward and Southward; all with halters about their necks; and for what? Why truly, to prevent four unarmed judges from holding a provincial, conſtitutional<g ref="char:punc">▪</g> charter court
-<pb n="30" facs="tcp:014455_0029_0F9291832112F310"/>
+<pb n="30" facs="unknown:014455_0029_0F9291832112F310"/>
 of juſtice; and to compel one, two, or at moſt three counſel<g ref="char:EOLhyphen"/>lors, appointed by the King, to reſign their ſeats at the board, which ſeats they either had never accepted, or if they had, their reſignations were void and of no effect.—Other bodies of wiſe-acres have aſſembled, in warlike array, for the heroic purpoſe of compelling an aged, infirm juſtice, who had ſign'd an addreſs, to recant; that is, to ſet his name to an infamo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>s lie, fabricated in general, if they have been truly retailed in the news-papers, by heroes in their cups, incapable of ſpelling or reaſoning. And in thoſe inſtances wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -945,7 +946,7 @@ of juſtice; and to compel one, two, or at moſt three counſel<g ref="char:EOLh
                   </gap>, the day is at hand—the day of reckoning—the day, wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap> the friends and foes, the liege ſubjects, and the rebels and traitors,
-<pb n="31" facs="tcp:014455_0030_0F929186583714D8"/>
+<pb n="31" facs="unknown:014455_0030_0F929186583714D8"/>
 to George the Third, muſt be diſtinguiſhed: And however ſpeciouſly the leaders may flatter their blind followers with hopes of ſucceſs in their oppoſition, by publiſhing extracts of letters from England, they may aſſure themſelves there is not the leaſt reaſon to ſuppoſe that parliament will not ſupport their authority, even to the ruin of the preſent generation, in this and all the other colonies, if it can't be eſtabliſhed at a leſs expence: And it is as certain that ſubmiſſion is required only to ſave the honour of government; they never intend to tax us; they don't wiſh to enſlave us; they abhor the thought; they want us to be happy and free; but no, we forſooth, muſt quarrel for a ſhadow, under a moral certainty of loſing the ſubſtance in the conteſt. The people are told by their oracles, that, if they give way now, their chains are rivited, and ſuch kind of trumpery; but, if they would but open their eyes, they might ſee that this is mere deluſion; let them try the experiment of ſubmitting; and if all their grievances are not redreſs'd, they may as well take up the cudgels, one or two, or ten years hence, as now. They will have hands and guns then as well as now; and the deuce is in it, if they don't think their wives, their children, their eſtates and their necks, worth trying to ſave. Some tell them they have been guilty of trea<g ref="char:EOLhyphen"/>ſon already, they have put their hands to the plough, and it's too late to look back. This is the language of vile ſeducers; but it is never too late in this world, to repent<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> and the ſoon<g ref="char:EOLhyphen"/>er the better; they have a gracious King to deal with, and a parliament of Britons, who know the value of civil and reli<g ref="char:EOLhyphen"/>gious liberty, and can make all due allowances for the ſudden extravagancies of Engliſhmen, when firſt impreſſed with the fear of loſing it; but it muſt be remembered, that the obſtinate perſeverance of incorrigible offenders, will put a period to the long ſufferings even of the Deity. I think I can perceive, that the eyes of many begin to open; I heartily wiſh they may attain a full view of their danger, before the door of mercy is ſhut. But I aſk pardon, Rev'd Sir, for breaking in upon your diſcourſe, and interrupting it ſo long; the diſtreſſes coming upon my country, through the wicked machinations of mock patriots lie uppermoſt in my mind; and when I enter upon the ſubject, I know not where to ſtop. But I have done.—</p>
@@ -954,7 +955,7 @@ to George the Third, muſt be diſtinguiſhed: And however ſpeciouſly the lead
                <speaker>Sharp.</speaker>
                <p>Indeed 'ſquire, there needs no apology; you have deliver'd my ſentiments, in much better terms than I can pre<g ref="char:EOLhyphen"/>tend to. The ſubject, as you obſerve, is of the greateſt mo<g ref="char:EOLhyphen"/>ment; and happy will it be, if you, by your converſation, and
 <pb n="32"
-                      facs="tcp:014455_0031_0F92918745DEC6F0"
+                      facs="unknown:014455_0031_0F92918745DEC6F0"
                       rendition="simple:additions"/>
 I by my preaching, can awaken our neighbours and friends to ſerious conſideration, before it be too late.</p>
             </sp>
